@@ -22,7 +22,7 @@
     },
     "dependencies": {
         "area-data": "^5.0.6",
-        "axios": "0.18.0",
+        "axios": "0.21.1",
         "ele-dialog": "^1.0.1",
         "ele-search": "^1.0.2",
         "ele-tables": "^1.0.5",
